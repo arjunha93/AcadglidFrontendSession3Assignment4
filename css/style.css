@@ -1,0 +1,37 @@
+
+/*
+Design the button to TRANSPARENT
+*/
+.button {
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    font-family: monospace;
+    font-style: italic;
+    font-weight: bold;
+    color:black;
+    border-color: blue;
+}
+
+/*
+Setting the background image of sign up form
+*/
+.table{
+    background-image:url("../img/3.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+/*
+setting background image of body
+*/
+body{
+    background-image: url("../img/bg.jpg");
+    background-size: 100% 200%;
+    background-repeat: no-repeat;
+}
+/*
+aligning the form to center and setting margin
+*/
+form{
+    margin-top: 10%;
+}
